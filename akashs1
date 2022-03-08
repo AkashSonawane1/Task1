@@ -1,5 +1,5 @@
 # Open the file in read mode
-text = open("sample.txt", "r")
+text = open("README.md", "r")
 
 # Create an empty dictionary
 d = dict()
